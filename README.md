@@ -1,6 +1,6 @@
 ## Docker Nginx & PHP
 
-Docker create image using Dockerfile(Add required packages and softwares). Start container using `docker-compose`.
+Create [docker](https://www.docker.com/what-docker) image using Dockerfile(Add required packages and softwares). Start container using `docker-compose`.
 
 ## Create image
 
